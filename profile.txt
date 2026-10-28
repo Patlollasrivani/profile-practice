@@ -1,0 +1,3 @@
+hi
+this is srivani patlolla 
+currently pursuing hpc-ai course at cdac and learned about github and git commands today
